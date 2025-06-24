@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Jupiter">
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/junit5/Junit5/Jupiter" />
+      <root url="file://C:/Program Files (x86)/junit5/Junit5/Platform" />
+      <root url="file://C:/Program Files (x86)/junit5/Junit5/Vintage" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files (x86)/junit5/Junit5/Jupiter" recursive="false" />
+    <jarDirectory url="file://C:/Program Files (x86)/junit5/Junit5/Platform" recursive="false" />
+    <jarDirectory url="file://C:/Program Files (x86)/junit5/Junit5/Vintage" recursive="false" />
+  </library>
+</component>
